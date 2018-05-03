@@ -1,1 +1,3 @@
-# final_ray_keira_dongwei
+final submission
+a cooper version of rate my professor
+
